@@ -1,3 +1,5 @@
+The paper is the pdf named: Maximizing Growth Rates of Options Portfolios
+
 # Changing the dimensions
 To run this code on the number of options you want, change the DIMENSIONS value to the number of options you want to run. 
 
