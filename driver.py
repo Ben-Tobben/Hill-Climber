@@ -1,3 +1,5 @@
+# Developed by Ben Tobben, Summer of 2020
+
 import pandas as ps
 import time
 
